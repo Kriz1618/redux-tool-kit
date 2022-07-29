@@ -58,7 +58,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 * Add heroku remote `heroku git:remote -a <app-name>`
 * Deploy app in heroku `git push geroku master`
 
-
+Visualize app on [Heroku platform](https://redux-tool-kit.herokuapp.com/)
 
 ### Stack
 
