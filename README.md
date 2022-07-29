@@ -50,8 +50,15 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Deployment
 
+#### Github Pages
 * Run the build comand `npm run build`
 * Run the command `npm run deploy`
+#### Heroku
+* Create a Heroku project with `heroku create -a <app-name>`
+* Add heroku remote `heroku git:remote -a <app-name>`
+* Deploy app in heroku `git push geroku master`
+
+
 
 ### Stack
 
