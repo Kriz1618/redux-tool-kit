@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "description": "base on https://www.youtube.com/watch?v=w2rAP7d6ndg",
-  "homepage": "https://kriz1618.github.io/redux-tool-kit/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.4",
