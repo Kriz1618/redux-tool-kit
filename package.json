@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "base on https://www.youtube.com/watch?v=w2rAP7d6ndg",
+  "homepage": "https://Kriz1618.github.io/redux-tool-kit",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.4",
@@ -19,7 +20,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && echo kriz1618.github.io > ./build/CNAME",
+    "build": "react-scripts build",
     "eject": "react-scripts eject",
     "deploy": "npm run build && gh-pages -d build"
   },
